@@ -31,7 +31,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 # 🚀 About Me
 
-- 💼 Currently working as a **Software Developer**
+- 💼 Currently working as a **ML Developer**
 - 🧠 Working on **Machine Learning & AI Projects**
 - 🌱 Learning **Deep Learning**, **System Design**, and **Backend Engineering**
 - ⚡ Interested in **AI/ML**, **Full Stack Development**, and **Scalable Systems**
