@@ -45,9 +45,9 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 # 💼 Work Experience
 
 | 💻 Designation | 🏢 Organization | 📅 Timeline |
-|----------------|----------------|-------------|
-| Software Developer | Current Company | Present |
-| Software Developer Intern / Developer | Previous Company | Previous Experience |
+|:----------------:|:----------------:|:------------:|
+| Graduate Trainee Engineer | Neveah Technology Pvt Ltd |Mar'26 - Present |
+| Python Developer | Alcove Realty | Dec'25 - Mar'26 |
 
 ---
 
@@ -97,15 +97,6 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ---
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=devang0215&show_icons=true&theme=tokyonight" />
-
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang0215&layout=compact&theme=tokyonight"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devang0215&theme=tokyonight" />
 </p>
