@@ -47,7 +47,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 | 💻 Designation | 🏢 Organization | 📅 Timeline |
 |:----------------:|:----------------:|:------------:|
 | Graduate Trainee Engineer | Neveah Technology Pvt Ltd |Mar'26 - Present |
-| Python Developer | Alcove Realty | Dec'25 - Mar'26 |
+| Python Developer Intern | Alcove Realty | Dec'25 - Mar'26 |
 
 ---
 
